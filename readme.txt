@@ -4,3 +4,4 @@ welcom to git world!
 good job
 hi lucy!
 hi nancy!
+nice to meet you!
